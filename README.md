@@ -36,5 +36,6 @@ The dashboard serves as a comprehensive data storytelling tool — combining dat
 - Donut and pie charts for total population share and age structure.
 - Unified design theme emphasizing clarity, contrast, and insight discovery.
 
-<img width="1113" height="623" alt="GLOBAL POPULATION DATA ANALYSIS DASHBOARD USING POWE BI" src="https://github.com/user-attachments/assets/a7e08216-6f80-4539-8d43-6841f7242ad0" />
+<img width="1112" height="627" alt="Global Population Data Analysis Dashboard" src="https://github.com/user-attachments/assets/f89c2177-3044-4a8e-9b81-21bd3084cd22" />
+
 
